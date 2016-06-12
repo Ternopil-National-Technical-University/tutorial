@@ -6,6 +6,6 @@
 [Faculty Acronym]-[Department]-[Academic Group]-[First name Letter and Second Name]-[Academic Year]-[Work Type]
 ```
 	Sample
-	```
-	FIS-CS-SN-21-AIvanchenko-2015_2016-Thesis_paper
-	```
+```
+FIS-CS-SN-21-AIvanchenko-2015_2016-Thesis_paper
+```
